@@ -1,0 +1,70 @@
+/* your styles go here */
+.rpheader {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+}
+
+.img-circle-customized {
+	border-radius: 50%;
+	border:10px white solid;
+}
+
+.contact-custom {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: center;
+	margin:15px;
+	padding: 15px;
+}
+
+.aboutme_custom {
+	font-family: "Palatino Linotype", "Book Antiqua", 'Palatino', 'serif';
+	font-style: italic;
+
+}
+
+.skill-item-custom {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: center;
+	margin:5px;
+	padding: 5px;
+}
+
+.skill-item-custom2{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	margin:5px;
+	padding: 5px;
+	border:1px solid grey;
+}
+
+.skill-heading-custom {
+	color:indianred;
+}
+
+.img-aboutme {
+	width: 150px;
+	height: 150px;
+}
+
+.workexp {
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.workexp_bullet {
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
